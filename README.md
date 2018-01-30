@@ -13,11 +13,11 @@
 |✘| [Contains Nearly Almost Duplicate](https://leetcode.com/problems/contains-duplicate-iii/description/)|- | Fails long int test cases|
 |✔| [Zig Zag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)| -| -|
 
-#|Solved |Problem        | Solution           | Comments  |
+#### Matrix
+|Solved |Problem        | Solution           | Comments  |
 |:-------:| ------------- |:-------------:|:-----:|
 |✔| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | -  | Dynamic Programming|
 |✔| [Two Sum II - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | -  | - |
-### Matrix
 
 
 #### Trees

@@ -1,7 +1,5 @@
 #include "../lib/basic.h"
 
-using namespace std;
-
 vector<int> twoSum(vector<int>& numbers, int target) {
     vector<int> ret;
     int i=0, j=numbers.size()-1;
@@ -19,6 +17,7 @@ vector<int> twoSum(vector<int>& numbers, int target) {
     return ret;
 }
 
+/*
 int main()
 {
     int a1[] = {2,7,11,15};
@@ -26,3 +25,4 @@ int main()
 
     twoSum(av1, 9);
 }
+*/

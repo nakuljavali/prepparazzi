@@ -1,7 +1,5 @@
 #include "../lib/basic.h"
 
-using namespace std;
-
 bool dfs(TreeNode* root, unordered_set<int>& s, int k){
     if(NULL==root)
         return false;
@@ -13,8 +11,4 @@ bool dfs(TreeNode* root, unordered_set<int>& s, int k){
 bool findTarget(TreeNode* root, int k){
     unordered_set<int> s;
     return dfs(root, s, k);
-}
-
-int main(){
-    return 0;
 }

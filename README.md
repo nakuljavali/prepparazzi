@@ -12,6 +12,23 @@
 |✔| [Contains Nearly Duplicate](https://leetcode.com/problems/contains-duplicate-ii/description/) | - | - |
 |✘| [Contains Nearly Almost Duplicate](https://leetcode.com/problems/contains-duplicate-iii/description/)|- | Fails long int test cases|
 |✔| [Zig Zag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)| -| -|
+|✔| [Reverse String](https://leetcode.com/problems/reverse-string/description/)|-| Use swap|
+|✔| [Palindrome](https://leetcode.com/problems/palindrome-number/description/)|-| -|
+|✔| [Longest Substring without repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|-|Sliding Window|
+|✔| [Valid Parantheses](https://leetcode.com/problems/valid-parentheses/description/)|-|-|
+|| [Remove Element](https://leetcode.com/problems/remove-element/description/) |-|-|
+|✔| [Move Zeros](https://leetcode.com/problems/move-zeroes/description/)|-|-|
+|✔|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|-|-|
+|✔|[Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|-|-|
+
+
+#### Linked Lists
+|Solved |Problem        | Solution           | Comments  |
+|:-------:| ------------- |:-------------:|:-----:|
+|✔| [Remove Elemnts](https://leetcode.com/problems/remove-linked-list-elements/description/) | -  | - |
+|✔| [Split Linked Lists](https://leetcode.com/problems/split-linked-list-in-parts/description/) | - | - |
+|✔| [Rotate List](https://leetcode.com/problems/rotate-list/description/)| -| - |
+
 
 #### Matrix
 |Solved |Problem        | Solution           | Comments  |
@@ -28,3 +45,8 @@
 |✔| [Level Order Traversal Reverse](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | -  | |
 |✔| [Zip Zag Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | -  | |
 |✔| [Inorder Successor](https://leetcode.com/problems/inorder-successor-in-bst/description/) | -  | |
+
+#### Misc
+|Solved |Problem        | Solution           | Comments  |
+|:-------:| ------------- |:-------------:|:-----:|
+|✔| [Nim Game](https://leetcode.com/problems/nim-game/description/) | -  | Divide by 4 |
